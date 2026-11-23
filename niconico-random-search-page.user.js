@@ -9,6 +9,7 @@
 // @license         Unlicense
 // @homepageURL     https://github.com/gcrtnst/gm-niconico-search-roulette
 // @match           https://www.nicovideo.jp/search/*
+// @match           https://www.nicovideo.jp/tag/*
 // @noframes
 // @grant           GM_registerMenuCommand
 // ==/UserScript==

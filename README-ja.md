@@ -7,3 +7,7 @@
 1. ニコニコ動画の検索結果ページを開きます。
 2. ユーザースクリプトマネージャー（Tampermonkey や Violentmonkey など）のメニューを開きます。
 3. **検索結果のランダムなページを開く** をクリックすると、現在の検索結果のランダムなページへ移動します。
+
+## License
+
+[The Unlicense](https://github.com/gcrtnst/gm-niconico-search-roulette/blob/main/LICENSE)

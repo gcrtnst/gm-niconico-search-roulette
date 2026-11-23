@@ -10,6 +10,11 @@
 // @homepageURL     https://github.com/gcrtnst/gm-niconico-search-roulette
 // @match           https://www.nicovideo.jp/search/*
 // @match           https://www.nicovideo.jp/tag/*
+// @match           https://www.nicovideo.jp/search_shorts/*
+// @match           https://www.nicovideo.jp/tag_shorts/*
+// @match           https://www.nicovideo.jp/series_search/*
+// @match           https://www.nicovideo.jp/mylist_search/*
+// @match           https://www.nicovideo.jp/user_search/*
 // @noframes
 // @grant           GM_registerMenuCommand
 // ==/UserScript==
